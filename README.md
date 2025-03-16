@@ -1,3 +1,5 @@
+DISCLAIMER: The original file was written as a Jupyter Notebook, however a Python file is also attached as it allows for easy preview of the written code (which is not provided by the Notebook).
+
 A Jupyter Notebook that encompasses a description of a study and Python code used to analyse information for testing the hypotheses of the study. 
 The study aimed to find out whether news articles' sentiment value differed in election years (years when a presidential election took place)
 in comparison with non-election years. Furthermore, it was of interest whether this contrast was comparable between the United States and Poland.
